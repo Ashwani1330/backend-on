@@ -1,2 +1,0 @@
-[processes]
-app = "node api/index.js"
